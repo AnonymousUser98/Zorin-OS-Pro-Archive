@@ -1,3 +1,14 @@
+# Zorin-OS-Pro Archive
+This is a re-upload of NanashiTheNameless's [Zorin OS Pro](http://github.com/NanashiTheNameless/Zorin-OS-Pro) script, put together using data from the Wayback Machine. Not all files have been preserved, but all the important ones have.
+
+## Unpreserved Files
+- `downgrade.sh`
+- `raw/zorin-os-premium.gpg`
+- `.vscode/*`
+- `.github/*`
+
+The original README is below. Keep in mind that the exact instructions are probably different.
+
 # Zorin-OS-Pro [![Shellcheck](https://img.shields.io/github/actions/workflow/status/NanashiTheNameless/Zorin-OS-Pro/shellcheck.yml?branch=main&label=Shellcheck&style=for-the-badge&labelColor=0d1117)](https://github.com/NanashiTheNameless/Zorin-OS-Pro/actions/workflows/shellcheck.yml)
 
 ## This script turns your Zorin OS CORE instance into a Zorin OS PRO instance
